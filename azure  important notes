@@ -1,0 +1,9 @@
+Azure cloud shell :
+for terminating the misbehaving process we need the azure cloud shell module in that there is sand box which gives te access the azure respurces 
+ fo exaple an applicaion causing problems it is taking the lot of cpu time so we need to stop this then we can do first find the processor here we need to use "ps" command and we can use the kill command to stop the process.
+the simplest to connect the our virtual network is networking peering 
+this networki perring enbles to connect the two virtual networok seamlessly 
+whent he two networks peered then they can work as the single netwrok 
+types of Azure network peering 1: Regional network peering and other one is Global virtaul network peering 
+Regional network peering=- connects the azure network that exists in the same region 
+Global virtaul network peering=- conncets the azure network that exists in the diffrent regions 
